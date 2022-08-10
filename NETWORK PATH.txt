@@ -1,1 +1,5 @@
-\\DESKTOP-DOMBNNN\Users\kavit\OneDrive\Desktop\Power Bi\8 am july\VINAYTECH_BUSINESS_PAYMENT_DETAILS_DATAMODEL_DATASET.xlsx
+this is the path
+
+
+\\
+DESKTOP-DOMBNNN\Users\kavit\OneDrive\Desktop\Power Bi\8 am july\VINAYTECH_BUSINESS_PAYMENT_DETAILS_DATAMODEL_DATASET.xlsx
